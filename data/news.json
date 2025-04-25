@@ -1,0 +1,17 @@
+[
+    {
+      "id": "1",
+      "title": "React Native 2025 Released",
+      "summary": "New features and improvements.",
+      "content": "React Native 2025 brings performance improvements and easier development.",
+      "image": "https://via.placeholder.com/400x200"
+    },
+    {
+      "id": "2",
+      "title": "Expo Router — What’s New?",
+      "summary": "Explore the new routing features.",
+      "content": "Expo Router introduces file-based routing to React Native.",
+      "image": "https://via.placeholder.com/400x200"
+    }
+  ]
+  
